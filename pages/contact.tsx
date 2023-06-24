@@ -1,10 +1,11 @@
+import React from 'react'
 import MainLayout from '../components/Layouts/MainLayout'
 
 
-export default function Home() {
+export default function Contact() {
   return (
     <MainLayout>
-        <h1>Home</h1>
+        <h1>CONTACT</h1>
     </MainLayout>
   )
 }
